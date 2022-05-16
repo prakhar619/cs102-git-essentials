@@ -1,0 +1,7 @@
+5 cmds that i learned so far
+git clone sshurl01---to clone online repository to local machine
+git status -- to know status of local repository
+git add file01 -- to add file to local repository
+git commit  -- to commit changes to local repository
+git push -- to update the main or merge the local branch with online branch
+git pull -- to update local repository from online server
