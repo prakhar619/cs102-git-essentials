@@ -1,5 +1,0 @@
-li = []
-print(li)
-n = "string"
-li =n
-print(type(li))
