@@ -5,3 +5,8 @@ git add file01 -- to add file to local repository
 git commit  -- to commit changes to local repository
 git push -- to update the main or merge the local branch with online branch
 git pull -- to update local repository from online server
+
+
+
+Apends
+Today we learned about Visual Code Studio. It is an editor with multiple feature like built in git, plugins etc for easier work flow. We also looked at markdown language. Markdown is a lightweight markup language for creating formatted text using a plain-text editor.It was created for the purpose of enabling people "to write using an easy-to-read and easy-to-write plain text format.
